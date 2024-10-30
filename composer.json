@@ -1,0 +1,19 @@
+{
+    "name": "ubase/ucore",
+    "description": "personal PHP framework project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ubase\\Ucore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ugarm",
+            "email": "ugo.armer@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
